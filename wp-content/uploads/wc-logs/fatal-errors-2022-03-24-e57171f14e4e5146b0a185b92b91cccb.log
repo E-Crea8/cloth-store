@@ -1,0 +1,11 @@
+2022-03-24T01:36:34+00:00 CRITICAL syntax error, unexpected '?>', expecting ')' in C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-content\themes\clothstore\header.php on line 110
+
+2022-03-24T01:38:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function _n(), 2 passed in C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-content\themes\clothstore\header.php on line 110 and at least 3 expected in C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-includes\l10n.php:473
+Stack trace:
+#0 C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-content\themes\clothstore\header.php(110): _n('%d', 1)
+#1 C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-includes\template.php(770): require_once('C:\\Users\\PC\\Loc...')
+#2 C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-includes\template.php(716): load_template('C:\\Users\\PC\\Loc...', true, Array)
+#3 C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#4 C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-content\themes\clothstore\front-page.php(15): get_header()
+#5 C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\PC in C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-includes\l10n.php on line 473
+

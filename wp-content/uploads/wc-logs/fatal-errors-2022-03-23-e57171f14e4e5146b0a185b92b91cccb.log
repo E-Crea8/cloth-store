@@ -1,0 +1,4 @@
+2022-03-23T16:28:55+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-content\themes\clothstore\front-page.php on line 136
+
+2022-03-23T23:53:34+00:00 CRITICAL syntax error, unexpected end of file in C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-content\themes\clothstore\functions.php on line 283
+

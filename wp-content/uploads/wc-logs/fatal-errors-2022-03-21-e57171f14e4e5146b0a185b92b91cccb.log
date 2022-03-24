@@ -1,0 +1,6 @@
+2022-03-21T22:09:20+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-content\themes\clothstore\header.php on line 72
+
+2022-03-21T22:09:26+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-content\themes\clothstore\header.php on line 72
+
+2022-03-21T23:40:25+00:00 CRITICAL Label 'https' already defined in C:\Users\PC\Local Sites\clothstoreshop\app\public\wp-content\themes\clothstore\functions.php on line 154
+
